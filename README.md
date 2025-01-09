@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rutuja1923.
+- 👋 Hi, I’m Rutuja.
 - 👀 I’m interested in Web Development and Artificial Intelligence(Natural Language Processing).
 - 🌱 I’m currently learning Backend Technologies (MERN) .
 - 💞️ I’m looking to collaborate on projects regarding web development.
